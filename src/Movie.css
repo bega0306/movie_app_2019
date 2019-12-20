@@ -1,0 +1,13 @@
+body {
+    background-color: #282c34;
+    color : white;
+}
+
+.movie{
+    display: inline-block;
+    margin: 5%;
+    max-width: 40%;
+    min-width: 500px;
+    overflow: hidden;
+    margin-bottom: 200px;
+}
